@@ -1,6 +1,6 @@
 # Alpaca Desktop
 
-[BitBar][1] distribution including [Alpaca][2] and [launchd][3] daemon and [BitBar][1] plugin.
+OSX menu bar widget for [Alpaca][2]. Built with [BitBar][1] distribution including [Alpaca][2] and [launchd][3] daemon.
 
 ![Screenshot](docs/screenshot.png)
 
